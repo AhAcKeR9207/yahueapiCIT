@@ -1,0 +1,4 @@
+https://developers.meethue.com/develop/tools-and-sdks/
+http://steveyo.github.io/Hue-Emulator/
+https://developers.meethue.com/develop/hue-api/lights-api/
+https://stackoverflow.com/questions/34802503/how-to-form-get-http-request-with-ip-address
